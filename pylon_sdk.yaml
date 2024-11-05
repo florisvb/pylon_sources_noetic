@@ -1,4 +1,5 @@
 pylon:
   ubuntu:
     source:
-      uri: "https://raw.githubusercontent.com/florisvb/pylon_camera/noetic-devel/rosdep/pylon_sdk.rdmanifest"
+      uri: "https://raw.githubusercontent.com/florisvb/pylon_sources_noetic/refs/heads/main/pylon_sdk.rdmanifest"
+      
